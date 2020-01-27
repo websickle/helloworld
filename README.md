@@ -1,6 +1,4 @@
 # helloworld
 try
 
-asd
-asd
-asd
+sad
